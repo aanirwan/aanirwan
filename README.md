@@ -7,5 +7,5 @@ I founded the [CryptoDropsID](https://twitter.com/cryptodropsid) community. [Cry
 currently we are validating on various chains such as Dyemsion, KYVE, Celestia Light Node and will add more in the future
 
 ## media me 
-![Logo MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png) 
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="Logo MySQL" width="30" height="30">
 
