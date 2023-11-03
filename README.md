@@ -6,4 +6,5 @@ I founded the [CryptoDropsID](https://twitter.com/cryptodropsid) community. [Cry
 ## We also serve as validators and Node Operators
 currently we are validating on various chains such as Dyemsion, KYVE, Celestia Light Node and will add more in the future
 
-## 
+## media me 
+![Logo Twitter](https://play.google.com/store/apps/details?id=com.twitter.android) [Twitter](https://twitter.com/0xAnCrypto)
