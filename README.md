@@ -12,5 +12,5 @@ currently we are validating on various chains such as Dyemsion, KYVE, Celestia L
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png" alt="Logo Telegram" width="30" height="30">
 
-## media CryptoDropsID
+## Media CryptoDropsID
 
