@@ -1,6 +1,6 @@
 # AAN IRWAN 
 
-## About me 
+## About me
 I founded the [CryptoDropsID](https://twitter.com/cryptodropsid) community. [CryptoDropsID](https://twitter.com/cryptodropsid) a place to discuss blockchain technology and crypto enthusiast groups from Indonesia
 
 ## We also serve as validators and Node Operators
