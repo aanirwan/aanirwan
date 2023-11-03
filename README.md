@@ -1,16 +1,23 @@
-### Hi there 👋
+# Nama Anda
 
-<!--
-**aanirwan/aanirwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya
+Tulis deskripsi singkat tentang siapa Anda, minat Anda, dan apa yang membuat Anda bersemangat dalam dunia teknologi.
 
-Here are some ideas to get you started:
+## Pekerjaan Terkini
+Tuliskan proyek atau pekerjaan yang sedang Anda kerjakan saat ini.
 
-- 🔭 I founded the CryptoDropsID community
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendidikan
+Tuliskan riwayat pendidikan Anda, gelar yang Anda miliki, dan institusi tempat Anda belajar.
+
+## Keterampilan
+Daftar keterampilan teknis yang Anda miliki. Anda dapat membaginya menjadi beberapa kategori seperti bahasa pemrograman, teknologi, dan keterampilan lainnya.
+
+## Proyek
+Tunjukkan proyek-proyek terbaik yang pernah Anda kerjakan. Sertakan link ke repositori GitHub jika ada.
+
+## Kontak
+Jika ada orang yang ingin bekerja sama atau berbicara lebih lanjut dengan Anda, berikan informasi kontak Anda di sini.
+
+## Portofolio Online
+Tautkan portofolio online atau situs web pribadi Anda jika Anda memiliki satu.
+
