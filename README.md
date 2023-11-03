@@ -7,14 +7,14 @@ I founded the [CryptoDropsID](https://twitter.com/cryptodropsid) community. [Cry
 currently we are validating on various chains such as Dyemsion, KYVE, Celestia Light Node and will add more in the future
 
 ## Media Me 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="Logo MySQL" width="30" height="30"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="Logo MySQL" width="15" height="15"> 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png" alt="Logo Telegram" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png" alt="Logo Telegram" width="15" height="15">
 
 ## Media CryptoDropsID
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="Logo MySQL" width="30" height="30"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="Logo MySQL" width="15" height="15"> 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png" alt="Logo Telegram" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png" alt="Logo Telegram" width="15" height="15">
 
