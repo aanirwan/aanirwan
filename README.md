@@ -4,7 +4,7 @@
 I founded the [CryptoDropsID](https://twitter.com/cryptodropsid) community. [CryptoDropsID](https://twitter.com/cryptodropsid) a place to discuss blockchain technology and crypto enthusiast groups from Indonesia
 
 ## We also serve as Validators And Node Operators
-currently we are validating on various chains such as Dyemsion, KYVE, Celestia Light Node and will add more in the future
+currently we are validating on various chains such as Dymension, KYVE, Celestia Light Node and will add more in the future
 
 ## Media Me 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="Logo MySQL" width="15" height="15">  [AAN](https://twitter.com/0xAnCrypto)
